@@ -1,0 +1,4 @@
+1. Facial_Recogntion_Part1.py 실행
+2. goodweb.py
+drowsiness-detection-master 폴더로이동
+3. drowsiness_detector.py 실행

@@ -1,0 +1,21 @@
+Python
+
+https://wdprogrammer.tistory.com/38
+
+SpeechRecognition 패키지를 통해 recognizer 클래스를 사용가능. 
+마이크로소프트 Bing
+구글 웹 speech
+구글 클라우드 speech
+Houndify
+IBM
+CMU Sphinx
+Wit
+..7개의 API의 키를 받아 사용이 가능.  Sphinx를 제외한 나머지는 인터넷 연결 요구 및 API 키 요구 / Sphinx는 Sphinx의 설치를 요구함. 
+
+SpeechRecognition 라이브러리 내부에 구글 web speech api의 키값이 기본으로 코딩되어있어 따로 인증이나 키를 요구하는 것 없이 
+구글api를 쓰는것이 편하다.
+그러나 하루 api 호출 50회로 제한되어있음.
+
+구글 
+https://techlab.tistory.com/19
+AIzaSyD_I4w6AtpPZ9kLpONDiSEMSo7opL-lgzo
